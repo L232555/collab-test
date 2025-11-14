@@ -6,3 +6,6 @@ adding some changes
 
 ## commit 2
 some changes
+
+## commit 3
+some changes 3
